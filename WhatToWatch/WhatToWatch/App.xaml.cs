@@ -18,7 +18,7 @@ namespace WhatToWatch
 
         protected override void OnStart()
         {
-            // Handle when your app starts
+            int xXamarin = 0;
         }
 
         protected override void OnSleep()
